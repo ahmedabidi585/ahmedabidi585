@@ -30,7 +30,7 @@ I enjoy turning ideas into real-world projects — from connected embedded devic
 
 ### 🔌 Embedded & IoT
 
-`Arduino` `ESP32` `ESP32-C6` `nRF52` `MQTT` `BLE` `I2C` `SPI` `GPIO`
+`Arduino` `ESP32` `ESP32-C6` `STM32` `Raspberry Pi` `nRF52` `MQTT` `BLE` `I2C` `SPI` `GPIO`
 
 ### 🤖 AI & Computer Vision
 
