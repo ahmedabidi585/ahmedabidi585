@@ -46,29 +46,6 @@ I enjoy turning ideas into real-world projects — from connected embedded devic
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌱 Smart Irrigation System
-
-An IoT-based automatic irrigation system using soil moisture sensors and embedded control to optimize water consumption.
-
-### 🧼 Smart Hygiene System
-
-An intelligent hygiene monitoring system combining **BLE, IMU sensors and Edge AI** to recognize hand movements and improve hygiene compliance.
-
-### 🤖 Robotics Projects
-
-Designing and programming robots using microcontrollers, sensors, motors and communication modules.
-
-### 🏪 Supermarket Management System
-
-A Java Swing desktop application for managing products, stock, sales, purchases, customers, suppliers and users.
-
-### 🧠 AI & Computer Vision
-
-Exploring intelligent systems capable of recognizing objects, gestures and patterns using **Computer Vision and Edge AI**.
-
----
 
 ## 📚 Currently Learning
 
